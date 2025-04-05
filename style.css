@@ -1,0 +1,25 @@
+h1{
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+
+html{
+    background-color: black;
+}
+
+.Deer{
+    width: 100%;
+    border: 10px solid white;
+}
+
+.poster{
+    margin-left: 25%;
+width: 50%;
+margin-top: 100px;
+}
